@@ -1,3 +1,4 @@
+# Multiplication for Kids
 from random import seed, randint
 seed()
 count = 0
